@@ -1,0 +1,3 @@
+Faster RCNN implementation
+
+Implementing vision papers to practice. Not aimed for optimization or edge cases.
